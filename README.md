@@ -19,6 +19,11 @@ Static Comp:
 ## Features
 The one feature I have implemented is that the Nav links up top link to the buttons lower on the page. The buttons do not have a function, however it is clickable.
 
+## Challenges/Wins
+Many challenges!!: The biggest being getting the colomns to work properly! With the colomns I could not get the buttons at the bottom to lineup properly, I tried quite a few things (ie. padding/margin, position relative/absolute). Shrinking it down causes issues with the colomns as well and makes them stagger. The nav bar also staggers the links when shrunk down to tablet size or smaller.
+
+Wins: Most of it went rather smooth. Getting the background image setup and the form section. The Footer bar went well. 
+
 ## How to use?
 While using Dog Party I recommend keeping the size at full size or half(split screen). Otherwise the columns and or Nav at the top will get all wonky.
 
