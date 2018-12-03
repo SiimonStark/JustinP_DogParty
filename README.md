@@ -22,4 +22,4 @@ While using Dog Party I recommend keeping the size at full size or half(split sc
 ## Credits
 I would like to thank my classmates (ie. Mike, Devin, Rachel, Melissa, and more) for allowing me to bounce ideas off eachother and coming up with awesome solutions.
 
-© [Justin Pyktel]()
+© [Justin Pyktel](https://github.com/SiimonStark)
