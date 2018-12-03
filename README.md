@@ -8,7 +8,10 @@ As our first class assignment we were to construct a website from scratch that m
 Finished. (Not Perfect)
  
 ## Screenshots
-
+Finished Project:
+![finimg](https://user-images.githubusercontent.com/23123990/49356877-7560d480-f68a-11e8-85f3-18bb9f1859f6.png)<br><hr><br>
+Static Comp:
+![dog-party-js-edition](https://user-images.githubusercontent.com/23123990/49356929-afca7180-f68a-11e8-9226-73b00063c65c.jpg)<br>
 
 ## Tech/framework used
 <b>Built with HTML & CSS</b>
